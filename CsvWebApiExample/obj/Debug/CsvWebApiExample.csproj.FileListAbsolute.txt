@@ -1,0 +1,14 @@
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\bin\CsvWebApiExample.dll.config
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\bin\CsvWebApiExample.dll
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\bin\CsvWebApiExample.pdb
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\bin\Newtonsoft.Json.dll
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\bin\System.Net.Http.Formatting.dll
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\bin\System.Web.Http.dll
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\bin\System.Web.Http.WebHost.dll
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\bin\Newtonsoft.Json.xml
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\bin\System.Net.Http.Formatting.xml
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\bin\System.Web.Http.xml
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\bin\System.Web.Http.WebHost.xml
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\obj\Debug\CsvWebApiExample.csprojResolveAssemblyReference.cache
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\obj\Debug\CsvWebApiExample.dll
+c:\users\doobs_000\documents\visual studio 2013\Projects\CsvWebApiExample\CsvWebApiExample\obj\Debug\CsvWebApiExample.pdb
